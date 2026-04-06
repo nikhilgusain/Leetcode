@@ -38,11 +38,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nikhilgusain/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/nikhilgusain/Leetcode/tree/master/0242-valid-anagram) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nikhilgusain/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nikhilgusain/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/nikhilgusain/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/nikhilgusain/Leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/nikhilgusain/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikhilgusain/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/nikhilgusain/Leetcode/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/nikhilgusain/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
