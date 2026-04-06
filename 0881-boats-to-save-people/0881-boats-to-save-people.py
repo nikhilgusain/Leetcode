@@ -6,12 +6,8 @@ class Solution:
         ans=0
 
         while l<=r:
-            if (people[l]+people[r])>limit:
-                r-=1
-                ans+=1
-                continue
-            else:
-                ans+=1
-                r-=1
+            if (people[l]+people[r])<=limit:
                 l+=1
+            r-=1
+            ans+=1
         return ans
