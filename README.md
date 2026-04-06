@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilgusain/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/nikhilgusain/Leetcode/tree/master/0283-move-zeroes) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilgusain/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nikhilgusain/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilgusain/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
@@ -37,4 +39,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nikhilgusain/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilgusain/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/nikhilgusain/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
