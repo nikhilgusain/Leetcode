@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nikhilgusain/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/nikhilgusain/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nikhilgusain/Leetcode/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/nikhilgusain/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nikhilgusain/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/nikhilgusain/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nikhilgusain/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/nikhilgusain/Leetcode/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/nikhilgusain/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +55,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nikhilgusain/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/nikhilgusain/Leetcode/tree/master/0881-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/nikhilgusain/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
