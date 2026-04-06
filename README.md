@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilgusain/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/nikhilgusain/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikhilgusain/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nikhilgusain/Leetcode/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/nikhilgusain/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilgusain/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/nikhilgusain/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikhilgusain/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nikhilgusain/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/nikhilgusain/Leetcode/tree/master/0392-is-subsequence) |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nikhilgusain/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikhilgusain/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/nikhilgusain/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
