@@ -16,10 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nikhilgusain/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/nikhilgusain/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nikhilgusain/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/nikhilgusain/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilgusain/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/nikhilgusain/Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nikhilgusain/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0392-is-subsequence](https://github.com/nikhilgusain/Leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
